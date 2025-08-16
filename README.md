@@ -1,6 +1,9 @@
 👋-Olá sou pauloppp23
+
 🖥️-sou um programador junior
+
 👨‍💻-de html,js e css!
+
 ❓-Qualquer dúvida entre em meu perfil e veja meu repositório.
 
 
